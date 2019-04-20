@@ -4,6 +4,7 @@ Besides the obvious examples from tech, I am excited how machine learning and AI
 
 ### Contact 
 Email: lukas.spranger -- at -- gmail.com
+
 [LinkedIn](https://www.linkedin.com/in/lukas-spranger-8962b5137/)
 
 
